@@ -21,8 +21,8 @@ class Home extends Component {
               <About/>
               <Skills/>
               <Experience/>
-              <Education/>
               <Portfolio/>
+              <Education/>
             </div>
           </div>
         </div>

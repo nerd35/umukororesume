@@ -17,33 +17,33 @@ class Skills extends Component {
 								</div>
 								<p>BOOTSTRAP</p>
 								<div className='progress grey lighten-1'>
-									<div className='determinate blue' style={{ width: '90%' }}></div>
+									<div className='determinate yellow' style={{ width: '90%' }}></div>
 								</div>
 								<p>ANT-DESIGN</p>
 								<div className='progress grey lighten-1'>
-									<div className='determinate blue' style={{ width: '75%' }}></div>
+									<div className='determinate green' style={{ width: '75%' }}></div>
 								</div>
-								<p>MATERIALIZE-CSS</p>
+								<p>CSS/SASS/LESS</p>
 								<div className='progress grey lighten-1'>
-									<div className='determinate blue' style={{ width: '90%' }}></div>
+									<div className='determinate purple' style={{ width: '90%' }}></div>
 								</div>
 							</div>
 							<div className='col s6 m6 l6 xl6'>
 								<p>REACT JS</p>
 								<div className='progress grey lighten-1'>
-									<div className='determinate blue' style={{ width: '90%' }}></div>
+									<div className='determinate pink' style={{ width: '90%' }}></div>
 								</div>
 								<p>NODE JS</p>
 								<div className='progress grey lighten-1'>
-									<div className='determinate blue' style={{ width: '75%' }}></div>
+									<div className='determinate lemon' style={{ width: '75%' }}></div>
 								</div>
 								<p>JAVASCRIPT</p>
 								<div className='progress grey lighten-1'>
-									<div className='determinate blue' style={{ width: '75%' }}></div>
+									<div className='determinate orange' style={{ width: '75%' }}></div>
 								</div>
 								<p>MONGO DB</p>
 								<div className='progress grey lighten-1'>
-									<div className='determinate blue' style={{ width: '70%' }}></div>
+									<div className='determinate brown' style={{ width: '70%' }}></div>
 								</div>
 							</div>
 						</div>

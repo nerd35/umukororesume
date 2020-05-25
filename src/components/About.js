@@ -19,14 +19,10 @@ class About extends Component {
             </h6>
             <div className='row mt'>
               <div className='col s12 m6 xl6 l6'>
-                <p><strong>Language:</strong> English, Ukwuani</p>
                 <p><strong>Email:</strong> mukolochinedu@gmail.com</p>
-                <p><strong>Phone No:</strong> +23408124696524</p>
               </div>
               <div className='col s12 m6 xl6 l6'>
-              <p><strong>Nationality:</strong> Nigeria</p>
-              <p><strong>State of Origin:</strong> Delta </p>
-              <p><strong>Religion:</strong> Christianity</p>
+              <p><strong>Phone No:</strong> +23408124696524</p>
               </div>
             </div>
           </div>
