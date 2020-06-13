@@ -170,6 +170,46 @@ class Portfolio extends Component {
 									</div>
 							</div>
 						</div>
+						<div className='row'>
+							<div className='col s12 m6 l6 xl6'>
+								<div class='card'>
+									<div class='card-image'>
+										<img src={require('../assets/crypto.png')} alt='angela-ezeh' />
+									</div>
+									<div class='card-content'>
+										<p>
+											<a
+												className='grey-text darken-2'
+												href='https://cryptominning.netlify.app/'
+												target='_blank'
+												rel='noopener noreferrer'
+											>
+												<strong>Crypto Minning</strong>
+											</a>
+										</p>
+									</div>
+								</div>
+								</div>
+								<div className='col s12 m6 l6 xl6'>
+									<div class='card'>
+										<div class='card-image'>
+											<img src={require('../assets/firebaseauth.png')} alt='cardinal' />
+										</div>
+										<div class='card-content'>
+											<p>
+												<a
+													className='grey-text darken-2'
+													href='https://firebasesocials.netlify.app/'
+													target='_blank'
+													rel='noopener noreferrer'
+												>
+													<strong>Firebase Authentication</strong>
+												</a>
+											</p>
+										</div>
+									</div>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
