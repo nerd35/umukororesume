@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 
 class Portfolio extends Component {
 	render() {
+		
 		return (
 			<div>
 				<div className='card'>
@@ -209,6 +210,28 @@ class Portfolio extends Component {
 										</div>
 									</div>
 							</div>
+						</div>
+						<div className='row'>
+							<div className='col s12 m6 l6 xl6'>
+								<div class='card'>
+									<div class='card-image'>
+										<img src={require('../assets/event-app.png')} alt='angela-ezeh' />
+									</div>
+									<div class='card-content'>
+										<p>
+											<a
+												className='grey-text darken-2'
+												href='https://myeventsapp-view.herokuapp.com/'
+												target='_blank'
+												rel='noopener noreferrer'
+											>
+												<strong>Event App</strong>
+											</a>
+										</p>
+									</div>
+								</div>
+								</div>
+								
 						</div>
 					</div>
 				</div>
