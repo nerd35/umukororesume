@@ -10,7 +10,7 @@ class Skills extends Component {
 							<strong>PROFESSIONAL SKILLS</strong>
 						</h6>
 						<div className='row mt-top'>
-							<div className='col s6 m6 l6 xl6'>
+							<div className='col s12 m6 l6 xl6'>
 								<p>HTML</p>
 								<div className='progress grey lighten-1'>
 									<div className='determinate blue' style={{ width: '90%' }}></div>
@@ -28,7 +28,7 @@ class Skills extends Component {
 									<div className='determinate purple' style={{ width: '90%' }}></div>
 								</div>
 							</div>
-							<div className='col s6 m6 l6 xl6'>
+							<div className='col s12 m6 l6 xl6'>
 								<p>REACT JS</p>
 								<div className='progress grey lighten-1'>
 									<div className='determinate pink' style={{ width: '90%' }}></div>
