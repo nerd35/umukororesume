@@ -7,11 +7,7 @@ class About extends Component {
         <div className="card">
           <div className="card-content">
             <h6 className='mt-bottom'>ABOUT ME </h6>
-            <p className="grey-text">I am a Frontend Developer who is self-motivated and hard working
-            with over 1 years of experience in software development, I’m a team player
-            with excellent social and creative abilities. I have a passion for excellence with
-            the aim of improving on personal and professional levels and attaining
-            organisation and personal goals.</p>
+            <p className="grey-text">Experienced Front-end Developer and Data Analyst with a demonstrated history of working in a software, staffing and recruiting industry. Skilled in UI design, Mern stack, training,  Sales, Sales Management, Management, Closed-Circuit Television (CCTV), and Direct Sales. Strong information technology professional with a Bachelor's degree focused in business administration from babcock university. </p>
           </div> 
           <div className="card-action">
             <h6>
